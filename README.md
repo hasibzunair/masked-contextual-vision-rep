@@ -1,8 +1,8 @@
 # Learning Contextual Vision Representations via Masking
 
-[Link to Thesis](https://spectrum.library.concordia.ca/id/eprint/994916/)
+[Link to Thesis](https://spectrum.library.concordia.ca/id/eprint/994916/), [Link to Oral Exam Presentation Slides](https://hasibzunair.github.io/data/Hasib%20-%20Ph.D%20Oral%20Exam%20Presentation%20Fall%202024.pdf)
 
-A list of references to all my works done during and for my PhD thesis titled Learning Contextual Vision Representations via Masking. Here's the oral exam presentation [slides](https://hasibzunair.github.io/data/Hasib%20-%20Ph.D%20Oral%20Exam%20Presentation%20Fall%202024.pdf).
+A list of references to all my works done during and for my PhD thesis titled Learning Contextual Vision Representations via Masking.
 
 1. https://github.com/hasibzunair/fifa-tryon, BMVC 2022 (MITACS Research Internship)
 2. https://github.com/hasibzunair/masksup-segmentation, BMVC 2022 (Oral)
